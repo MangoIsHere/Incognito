@@ -27,12 +27,12 @@ async function community(app) {
         'div', 
         [
             app.createElement('section', [
-                app.createElement('p', `You are being taken to the Amethyst Network discord server (discord.gg/${json.invite_code}).`, {
+                app.createElement('p', `You are being taken to the Streamflix Hosting discord server (discord.gg/REVZuBsHZA).`, {
                         style: {
                             'margin-bottom': '0'
                         }
                     }),
-                    app.createElement('p', `Are you sure you want to <a href="https://discord.gg/${json.invite_code}">proceed</a>?`, {
+                    app.createElement('p', `Are you sure you want to <a href="https://discord.gg/REVZuBsHZA">proceed</a>?`, {
                         style: {
                             'margin-bottom': '0'
                         }
