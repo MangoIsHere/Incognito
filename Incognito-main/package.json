@@ -1,7 +1,7 @@
 {
   "name": "incognito",
   "version": "1.0.0",
-  "description": "Unofficial Incognito easy deployment version with TompHTTP bare server included.",
+  "description": "Incognito easy deployment version with TompHTTP bare server included.",
   "type": "module",
   "scripts": {
     "start": "node src/index.js",
@@ -17,7 +17,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/amethystnetwork-dev/Incognito"
+    "url": "git+https://github.com/MangoIsHere/Incognito"
   },
   "keywords": [
     "unoffical",
