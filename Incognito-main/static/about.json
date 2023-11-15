@@ -5,26 +5,22 @@
     },
     "authors": [
         {
+            "name": "<a href=\"https://github.com/MangoIsHere/\">Mango</a>",
+            "data": "Deployed Incognito"
+        },
+        {
             "name": "<a href=\"https://github.com/caracal-js\">Caracal.js</a>",
-            "data": "Creator of <a href=\"https://github.com/titaniumnetwork-dev/Ultraviolet\">Ultr&#173;avi&#173;olet</a>"
+            "data": "Creator of <a href=\"https://github.com/titaniumnetwork-dev/Ultraviolet\">Ultr\u00ADavi\u00ADolet</a>"
         },
         {
             "name": "<a href=\"https://github.com/e9x\">e9x</a>",
             "data": "Creator of <a href=\"https://github.com/tomphttp/\">TompHTTP</a>"
-        },
-        {
-            "name": "<a href=\"https://github.com/MangoIsHere/\">Mango</a>",
-            "data": "Deployed Incognito"
         }
     ],
     "socials": [
         {
-            "name": "<a href=\"https://www.patreon.com/incognitotn\">TN Patreon</a>",
-            "data": "Helps TN restock its Incognito domains & upgrade servers"
-        },
-        {
             "name": "<a href=\"https://discord.gg/REVZuBsHZA\">Streamflix Hosting</a>",
-            "data": "The official Steamflix discord server"
+            "data": "The official Streamflix discord server"
         }
     ],
     "contact": [
