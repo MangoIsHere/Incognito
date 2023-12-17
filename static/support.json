@@ -4,7 +4,7 @@
         "answer": "Our web servers are either under really high load, or the web page you tried accessing is not currently supported."
     },
     {
-        "question": "How so I get back to the main page after opening the proxy",
+        "question": "How do I get back to the main page after opening the proxy",
         "answer": "If you hover your mouse on the top of the page, a menu will appear with options to close, reload and copy a URL to the proxied page"
     },
     {
@@ -12,7 +12,7 @@
         "answer": "Yes, absolutely no user data is collected."
     },
     {
-        "question": "Why is GeForce Now is responding with \"403 Access Denied\"",
+        "question": "Why is GeForce Now responding with \"403 Access Denied\"",
         "answer": "At the moment, too many people are using GeForce on our servers. Try again later."
     }
 ]
