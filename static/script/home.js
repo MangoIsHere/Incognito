@@ -1,10 +1,29 @@
+/*
+  _____                   _                _     _                                                                      
+ |  __ \                 | |              | |   | |                                                                     
+ | |__) |   ___    _ __  | |_    ___    __| |   | |__    _   _                                                          
+ |  ___/   / _ \  | '__| | __|  / _ \  / _` |   | '_ \  | | | |                                                         
+ | |      | (_) | | |    | |_  |  __/ | (_| |   | |_) | | |_| |                                                         
+ |_|       \___/  |_|     \__|  \___|  \__,_|   |_.__/   \__, |                                                         
+                                                          __/ |                                                         
+                                                         |___/                                                          
+                                _     _                     _       _   _          _                               _    
+     /\                        | |   | |                   | |     | \ | |        | |                             | |   
+    /  \     _ __ ___     ___  | |_  | |__    _   _   ___  | |_    |  \| |   ___  | |_  __      __   ___    _ __  | | __
+   / /\ \   | '_ ` _ \   / _ \ | __| | '_ \  | | | | / __| | __|   | . ` |  / _ \ | __| \ \ /\ / /  / _ \  | '__| | |/ /
+  / ____ \  | | | | | | |  __/ | |_  | | | | | |_| | \__ \ | |_    | |\  | |  __/ | |_   \ V  V /  | (_) | | |    |   < 
+ /_/    \_\ |_| |_| |_|  \___|  \__| |_| |_|  \__, | |___/  \__|   |_| \_|  \___|  \__|   \_/\_/    \___/  |_|    |_|\_\
+                                               __/ |                                                                    
+                                              |___/                                                                     
+*/
 const tips = [
-    'Modify Inc&#173;ogni&#173;tos appearance & browser tab in <a href="#settings">settings.</a>',
-    'You can enable about:blank tab cloaking in <a href="#settings">settings.</a>',
-    'Access popular media & sites easily in <a href="#apps">apps.</a>',
-    'Anything you do remains private.',
-    'Get answers to questions in <a href="#support">support.</a>',
-    `Check out our game collection in <a href="#games">games.</a>`
+    'Modify Inc&#173;ogni&#173;tos appearance & browser tab in <a href="#settings">settings</a>',
+    'You can enable about:blank tab cloaking in <a href="#settings">settings</a>',
+    'Access popular media & sites easily in <a href="#apps">apps</a>',
+    'Anything you do remains private',
+    'Get answers to questions in <a href="#support">support</a>',
+    'Check out our game collection in <a href="#games">games</a>',
+    `Hover your mouse at the top of the screen to exit the browser`
 ];
 
 // You can add more search engines if you want
