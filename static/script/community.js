@@ -27,7 +27,7 @@ async function community(app) {
         'div', 
         [
             app.createElement('section', [
-                app.createElement('p', `You are being taken to the Streamflix Hosting discord server (discord.gg/REVZuBsHZA).`, {
+                app.createElement('p', `You are being taken to the Incognito discord server (discord.gg/REVZuBsHZA).`, {
                         style: {
                             'margin-bottom': '0'
                         }
