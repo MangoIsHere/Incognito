@@ -27,12 +27,12 @@ async function community(app) {
         'div', 
         [
             app.createElement('section', [
-                app.createElement('p', `You are being taken to the Incognito discord server (discord.gg/REVZuBsHZA).`, {
+                app.createElement('p', `You are being taken to the Incognito discord server (discord.gg/QzyAPzVdGY).`, {
                         style: {
                             'margin-bottom': '0'
                         }
                     }),
-                    app.createElement('p', `Are you sure you want to <a href="https://discord.gg/REVZuBsHZA">proceed</a>?`, {
+                    app.createElement('p', `Are you sure you want to <a href="https://discord.gg/QzyAPzVdGY">proceed</a>?`, {
                         style: {
                             'margin-bottom': '0'
                         }
