@@ -16,5 +16,16 @@
             "name": "<a href=\"https://github.com/e9x\">e9x</a>",
             "data": "Creator of <a href=\"https://github.com/tomphttp/\">TompHTTP</a>"
         }
+    ],
+    "socials": [
+        {
+            "name": "<a href=\"https://discord.gg/QzyAPzVdGY</a>",
+            "data": "The Incognito discord server"
+        }
+    ],
+    "contact": [
+        {
+            "name": "<a href=\"@dropsoap on Discord</a>"
+        }
     ]
 }
