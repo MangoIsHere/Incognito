@@ -6,7 +6,7 @@
     "authors": [
         {
             "name": "<a href=\"https://github.com/MangoIsHere/\">Mango</a>",
-            "data": "Deployed Incognito"
+            "data": "Deployed <a href=\"https://github.com/MangoIsHere/Incognito/\">Incognito</a>"
         },
         {
             "name": "<a href=\"https://github.com/caracal-js\">Caracal.js</a>",
@@ -19,13 +19,13 @@
     ],
     "socials": [
         {
-            "name": "<a href=\"https://discord.gg/QzyAPzVdGY</a>",
-            "data": "The Incognito discord server"
+            "name": "<a href=\"https://discord.gg/QzyAPzVdGY/\">Join here</a>",
+            "data": "Incognito Discord server"
         }
     ],
     "contact": [
         {
-            "name": "<a href=\"@dropsoap on Discord</a>"
+            "name": "@dropsoap on Discord"
         }
     ]
 }
