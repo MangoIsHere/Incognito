@@ -501,8 +501,8 @@ The about:blank script is based off of ABC by
         events: {
             click() {
                 tabs.switchTab('search');
-                searchSelection.switchSelector((localStorage.getItem('incog||search') || 'google'));
-                searchSuggestionSelection.switchSelector((localStorage.getItem('incog||suggestions') || 'ddg'));
+                searchSelection.switchSelector((localStorage.getItem('incog||search') || 'brave'));
+                searchSuggestionSelection.switchSelector((localStorage.getItem('incog||suggestions') || 'brave'));
             }
         },
         id: 'search'
